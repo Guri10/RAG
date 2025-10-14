@@ -1,0 +1,13 @@
+Introduction to Python
+
+Python is a high-level, interpreted programming language that is widely 
+used for various applications such as web development, scientific 
+computing, and data analysis. Created in the late 1980s by Guido van 
+Rossum, Python is known for its simplicity, readability, and ease of use, 
+making it an ideal language for beginners and experts alike.
+
+Python's syntax is concise and intuitive, with a focus on code 
+readability. It has a vast standard library that includes modules for 
+tasks such as file I/O, networking, and data structures. The language also 
+supports object-oriented programming (OOP) concepts like classes and 
+inheritance.

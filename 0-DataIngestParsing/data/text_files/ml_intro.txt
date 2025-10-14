@@ -1,0 +1,13 @@
+Introduction to Machine Learning
+
+Machine learning is a subset of artificial intelligence that enables 
+systems to learn from data without being explicitly programmed. It 
+involves training algorithms on large datasets to enable them to make 
+predictions, classify patterns, or make decisions on their own. The goal 
+of machine learning is to improve the accuracy and efficiency of tasks 
+such as image recognition, natural language processing, and predictive 
+modeling. Machine learning algorithms can be broadly classified into 
+supervised, unsupervised, and reinforcement learning, each with its unique 
+approach to data-driven decision-making. It has numerous applications in 
+areas like computer vision, robotics, and healthcare.
+    
